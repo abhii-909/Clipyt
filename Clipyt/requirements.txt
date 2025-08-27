@@ -1,0 +1,7 @@
+opencv-python
+tk
+reportlab
+yt-dlp
+scikit-image
+pytesseract
+Pillow
